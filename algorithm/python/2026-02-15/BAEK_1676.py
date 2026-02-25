@@ -16,11 +16,11 @@
 
 N = int(input())
 
-two = 0
-div = 2
-while div <= N:
-    two += N // div
-    div *= 2
+# two = 0
+# div = 2
+# while div <= N:
+#     two += N // div
+#     div *= 2
 
 five = 0
 div = 5
